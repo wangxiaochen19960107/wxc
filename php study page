@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+		<meta charset="utf-8">
+		<title>PHP学习笔记</title>
+		<link type="text/css" rel="stylesheet" href="index.css">
+	</head>
+
+	<body>
+		
+		<h1>php study</h1>
+
+		<!-- 第二章 使用变量 -->
+			<h2></h2>
+				<p>常量一旦赋值，不会改变。定义方式：define("常量名",15);</p>
+				<p><img src="1.PNG" alt=""></p>
+				<p>goto语句可以跳转到制定语句，如在某段代码前加上"aa;"，在任意位置加上goto aa;就会跳转到该位置开始运行，但是会破坏结构化设计风格。</p>
+				<p>func_get_args()是传参数组</p>
+				<p><img src="2.PNG" alt=""></p>
+	
+	</body>
+</html>
