@@ -1,0 +1,2 @@
+# wxc
+one beautiful page
